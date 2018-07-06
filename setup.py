@@ -27,7 +27,7 @@ setup(name='svgpathtools',
       # long_description=open('README.rst').read(),
       author=AUTHOR_NAME,
       author_email=AUTHOR_EMAIL,
-      url='https://github.com/mathandy/svgpathtools',
+      url='https://github.com/playi/svgpathtools',
       license='MIT',
       
       install_requires=['numpy', 'svgwrite'],
